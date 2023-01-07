@@ -65,6 +65,7 @@ assign carry = ((a&b)|(b&c)|(c&a));
 endmodule  
 
 Developed by: JENIFER.A
+
 RegisterNumber:  22009141
 
 Logic symbol 
