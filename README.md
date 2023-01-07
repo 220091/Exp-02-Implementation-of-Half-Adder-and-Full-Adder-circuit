@@ -35,6 +35,7 @@ If the output is 1, then the led glows.
 Program:
 
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+
 HALF ADDER  
 
 module HalfAdder(a,b,sum,carry);
@@ -70,7 +71,9 @@ Logic symbol
 ![symbol](https://user-images.githubusercontent.com/121572543/211146821-10aed368-5c07-4094-8dfa-7d06b59bd37d.png)
 
 OUTPUT
+
 RTL realization
+
 HALF ADDER
 ![HADDER1](https://user-images.githubusercontent.com/121572543/211146867-be4d78aa-5dfd-4f3a-946b-d1331cf5679a.png)
 
