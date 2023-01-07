@@ -84,9 +84,11 @@ FULL ADDER
  TIMING DIAGRAM
  
  HALF ADDER
+ 
  ![timing diagram1](https://user-images.githubusercontent.com/121572543/211146972-57ad99f7-0336-4f7a-bd53-4fc571ed88f8.png)
 
 FULL ADDER
+
 ![timing diagram2](https://user-images.githubusercontent.com/121572543/211146988-6d73dfe9-f826-4f8b-992e-f23c5e256aff.png)
 
 
@@ -94,9 +96,11 @@ FULL ADDER
 TRUTH TABLE 
 
 HALF ADDER
+
 ![output1](https://user-images.githubusercontent.com/121572543/211147000-a3d05df0-a93a-410c-8470-55134e362aa9.png)
 
 FULL ADDER
+
 ![output2](https://user-images.githubusercontent.com/121572543/211147009-9904b8c3-5ff5-4845-a54d-fe1a2480c1cc.png)
 
 
